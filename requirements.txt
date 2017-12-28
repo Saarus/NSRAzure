@@ -11,7 +11,6 @@ chardet==3.0.2
 click==6.7
 cryptography==1.8.1
 dill==0.2.6
--e git+https://source.developers.google.com/p/tccc-data-lake-core-dev/r/nsr-dp@c6d58a36a3d5bed58333d5057633b789a99a6530#egg=dp_workflow
 enum34==1.1.6
 filequeue==0.3.1
 Flask==0.12.1
