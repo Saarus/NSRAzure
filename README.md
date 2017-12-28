@@ -3,9 +3,13 @@ Data processing code sample using pySpark,PyDocumentDB for CosmosDB and Azure Bl
 
 Setup resources/config.json with your environment specific settings
 
-Create Python virtual environment using requirements.txt file
+Create Python virtual environment for NSRAzure using requirements.txt file
 
 Setup pyCharm debug environment with these settings:
+
+Point Python interpreter for your PyCharm project to the one in NSRAzure created in the step above.
+
+Other settings:
 
 script - NSRAzure/nsr-dp/src/_main_.py
 
