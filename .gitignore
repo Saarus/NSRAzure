@@ -38,12 +38,12 @@ Thumbs.db
 
 #Compiled python files
 ######################
-.pyc
+*.pyc
 
 #XML and csv files
 ###################
-.xml
-.csv
+*.xml
+*.csv
 .idea/
 gck-hist/
 inbound/
